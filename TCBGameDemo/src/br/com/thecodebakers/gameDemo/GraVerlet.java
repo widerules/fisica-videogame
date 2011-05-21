@@ -126,6 +126,10 @@ public class GraVerlet extends Activity {
            		// se o Thread já foi iniciado
            	}
         }
+        
+        if (keyCode == KeyEvent.KEYCODE_BACK) {
+        	finish();
+        }
         return false;
     }
 
