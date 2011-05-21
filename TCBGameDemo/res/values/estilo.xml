@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="titulo_link" parent="@android:style/TextAppearance.Large">
+        <item name="android:textColor">#0000ff</item>
+        <item name="android:typeface">monospace</item>
+		<item name="android:textStyle">bold</item>
+        <item name="android:textSize">33sp</item>
+	</style>
+</resources>
