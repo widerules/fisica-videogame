@@ -17,5 +17,17 @@
 	    android:onClick="graverlet"
 	    />
    	</TableRow>
-
+   	<TableRow
+   		android:layout_height="wrap_content"
+   		android:layout_width="fill_parent"
+   	>
+	<TextView  
+		style="@style/titulo_link"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	    android:text="@string/colisao1"
+	    android:clickable="true"
+	    android:onClick="graverletColisao"
+	    />
+   	</TableRow>
 </TableLayout>
