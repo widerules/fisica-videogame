@@ -17,4 +17,9 @@ public class Principal extends Activity {
     	Intent i = new Intent(this.getApplicationContext(), GraVerlet.class);
     	startActivity(i);
     }
+    
+    public void graverletColisao (View view) {
+    	Intent i = new Intent(this.getApplicationContext(), GraVerletColisao.class);
+    	startActivity(i);
+    }
 }

@@ -3,4 +3,5 @@
     <string name="hello">Hello World, Principal!</string>
     <string name="app_name">TCBGameDemo</string>
     <string name="graverlet">Física 1</string>
+    <string name="colisao1">Colisão com solo</string>
 </resources>
